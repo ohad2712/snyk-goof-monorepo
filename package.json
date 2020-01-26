@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ohad2712/snyk-goof-monorepo.git"
   },
   "dependencies": {
-    "lodash": "1.0.0"
+    "lodash": "1.0.1"
   },
   "author": "Ohad Finkelstein",
   "license": "ISC",
